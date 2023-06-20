@@ -43,7 +43,7 @@ const Left = styled.div`
     flex: 1;
     align-items: center;
   }
-`;
+`; 
 
 const Title = styled.h1`
   font-size: 74px;
@@ -126,13 +126,13 @@ const Hero = () => {
       <Navbar />
       <Container>
         <Left>
-          <Title>Think. Make. Solve.</Title>
+          <Title>Dream. Code. Create.</Title>
           <WhatWeDo>
             <Line src="./img/line.png" />
-            <Subtitle>What we Do</Subtitle>
+            <Subtitle>Lakshay Gupta</Subtitle>
           </WhatWeDo>
           <Desc>
-            we enjoy creating delightful, human-centered digital experiences.
+            I develope games and web applications.
           </Desc>
           <Button>Learn More</Button>
         </Left>
